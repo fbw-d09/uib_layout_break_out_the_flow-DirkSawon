@@ -41,6 +41,7 @@ html, body {
     float: left;
     bottom: 0px;
     left: 0px;
+    z-index: 2;
 }
 
 .box2{
@@ -53,6 +54,7 @@ html, body {
     float: left;
     bottom: 10px;
     left: 10px;
+    z-index: 3;
 
 }
 
@@ -66,5 +68,6 @@ html, body {
     float: left;
     bottom: 20px;
     left: 20px;
+    z-index: 1;
     
 }
